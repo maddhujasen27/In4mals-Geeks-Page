@@ -446,6 +446,7 @@ h1 span:nth-child(12)
     height: 5vw;
     position: absolute;
     top: 0;
+    text-align: center;
   }
 
   .top-head{
